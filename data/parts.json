@@ -1,0 +1,13 @@
+{
+ "parts": {
+  "30-ocr-01.json": {
+   "acts": [
+    "perda-2019-004-perubahan-atas-peraturan-daerah-kabupaten-bojonegoro-nomor-1-tahun",
+    "perda-2020-003-pencabutan-peraturan-daerah-nomor-25-tahun-2011-tentang-pendaftaran",
+    "perda-2020-012-perubahan-atas-peraturan-daerah-nomor-15-tahun-2010-tentang-pajak"
+   ],
+   "sha256": "cbe58d9ad3316ba3acb7f369fc40671525a52201268555389267398c5c6da353"
+  }
+ },
+ "schema": 1
+}
