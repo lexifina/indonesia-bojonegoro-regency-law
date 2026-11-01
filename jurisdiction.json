@@ -1,0 +1,8 @@
+{
+  "path": "id-ji-bojonegoro",
+  "code": "ID-JI-BOJONEGORO",
+  "name": "Bojonegoro Regency (Indonesia)",
+  "level": "country",
+  "repo": "https://github.com/lexifina/indonesia-bojonegoro-regency-law",
+  "build": "built: Peraturan Daerah (Perda) of Kabupaten Bojonegoro as enacted, Indonesian text, from JDIH Kabupaten Bojonegoro (Bagian Hukum Sekretariat Daerah Kabupaten Bojonegoro)"
+}

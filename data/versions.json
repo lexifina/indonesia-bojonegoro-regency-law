@@ -1,0 +1,47 @@
+{
+ "country": "ID-JI-BOJONEGORO",
+ "acts": [
+  {
+   "slug": "perda-2019-004-perubahan-atas-peraturan-daerah-kabupaten-bojonegoro-nomor-1-tahun",
+   "short": "Perda Bojonegoro Regency 4/2019",
+   "title": "Peraturan Daerah Kabupaten Bojonegoro Nomor 4 Tahun 2019 tentang Perubahan atas Peraturan Daerah Kabupaten Bojonegoro Nomor 1 Tahun 2017 tentang Perangkat Desa No. 4-3 2019 06 Sep 2019 Berlaku Lihat Detail Unduh PDF",
+   "url": "https://jdih.bojonegorokab.go.id/produk-hukum/detail/108",
+   "versions": [
+    {
+     "from": "2019-09-06",
+     "units": 5,
+     "source_url": "https://jdih.bojonegorokab.go.id/storage/produk-hukum/108_Perda_No_4_ttg_perubahan_Perda_no_1_2017_ttg_Peran.pdf",
+     "sha256": "d198c680da3e90258038477444ccc84c1f39ce25024106bc72cfbc33b74e46e3"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2020-003-pencabutan-peraturan-daerah-nomor-25-tahun-2011-tentang-pendaftaran",
+   "short": "Perda Bojonegoro Regency 3/2020",
+   "title": "Peraturan Daerah Kabupaten Bojonegoro Nomor 3 Tahun 2020 tentang Pencabutan Peraturan Daerah Nomor 25 Tahun 2011 tentang Pendaftaran Wajib Pajak No. 3 2020 03 Apr 2020 Berlaku Lihat Detail Unduh PDF",
+   "url": "https://jdih.bojonegorokab.go.id/produk-hukum/detail/4",
+   "versions": [
+    {
+     "from": "2020-04-03",
+     "units": 5,
+     "source_url": "https://jdih.bojonegorokab.go.id/storage/produk-hukum/4_kabbojonegoro_jdih_jatimprov_go_default.pdf",
+     "sha256": "dd8d2b5fd080a508f680f9199bdaae9a1688807f8027a02a6e80368550a7aaaf"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2020-012-perubahan-atas-peraturan-daerah-nomor-15-tahun-2010-tentang-pajak",
+   "short": "Perda Bojonegoro Regency 12/2020",
+   "title": "Peraturan Daerah Kabupaten Bojonegoro Nomor 12 Tahun 2020 tentang Perubahan atas Peraturan Daerah Nomor 15 tahun 2010 tentang Pajak Daerah No. 12-1 2020 20 Nov 2020 Berlaku Lihat Detail Unduh PDF",
+   "url": "https://jdih.bojonegorokab.go.id/produk-hukum/detail/54",
+   "versions": [
+    {
+     "from": "2020-11-20",
+     "units": 5,
+     "source_url": "https://jdih.bojonegorokab.go.id/storage/produk-hukum/54_perda_12_th_2020_ttg_perub_perda_15_th_2011_ttg_pa.pdf",
+     "sha256": "e43eaaf90d305d64988c791570a14b62c5219162786fc65ce3600d9e03455e3f"
+    }
+   ]
+  }
+ ]
+}
